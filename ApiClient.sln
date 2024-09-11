@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClient", "ApiClient\ApiClient.csproj", "{2E494768-713D-457A-915B-B563D93FCAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{A18BDF0B-C84C-4E73-BED2-EB90614C062F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E494768-713D-457A-915B-B563D93FCAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E494768-713D-457A-915B-B563D93FCAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E494768-713D-457A-915B-B563D93FCAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E494768-713D-457A-915B-B563D93FCAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18BDF0B-C84C-4E73-BED2-EB90614C062F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18BDF0B-C84C-4E73-BED2-EB90614C062F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18BDF0B-C84C-4E73-BED2-EB90614C062F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18BDF0B-C84C-4E73-BED2-EB90614C062F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B5DB9A-20F4-4291-A4D2-0CE01F795769}
+	EndGlobalSection
+EndGlobal
